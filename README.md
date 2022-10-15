@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaxmansAryan, but my actual name is Aryan Santosh Sawant
 - 👀 I’m interested in Python, Web development , ML and Django
 - 🌱 I’m currently learning Dart and Flutter 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me...
 
 <!---
